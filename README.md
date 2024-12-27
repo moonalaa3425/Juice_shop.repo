@@ -50,3 +50,16 @@ To prevent XSS attacks, websites need to sanitize the input from users. This mea
 Conclusion:
 
 XSS is a dangerous vulnerability because it can let an attacker run malicious scripts in users’ browsers, leading to data theft or account hijacking. In Juice Shop, we tested how easily a simple script could be injected and executed, and we discussed how important it is for websites to sanitize input and escape output to prevent such attacks. By following these best practices, developers can make their sites safer for users.
+
+
+Video links explaining the project:
+
+1-
+https://drive.google.com/file/d/1iw91xTtEzuY8z4qhomnIEfkb0-so02B9/view?usp=drivesdk
+
+2-
+https://drive.google.com/file/d/1_UvUMDCUdCVm-YPPmTd5SplPXLhb-SS4/view?usp=drivesdk
+
+3-
+https://drive.google.com/file/d/1fuyUn3fx2ZVqwL-madrSUTSOih-nipYM/view?usp=drivesdk
+
